@@ -1,0 +1,7 @@
+git@github.com:callaginn/config.git
+git@github.com:cremadesign/cremastrap.git
+git@github.com:twbs/bootstrap.git
+git@github.com:zurb/foundation-emails.git
+git@github.com:cremadesign/emails.git
+git@github.com:cremadesign/emails-craft.git
+git@github.com:cremadesign/crema-craft.git

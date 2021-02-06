@@ -1,0 +1,8 @@
+coreutils
+composer
+yarn
+slugify
+themekit
+slate
+chrome-cli
+lastpass-cli

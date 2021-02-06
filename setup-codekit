@@ -1,0 +1,12 @@
+#!/usr/bin/osascript
+
+tell application "CodeKit" to pause file watching
+
+on run {sites}
+    tell application "CodeKit" to add framework at path sites & "/cremastrap-bs3/bootstrap"
+    tell application "CodeKit" to add framework at path sites & "/cremastrap-bs3/plugins"
+    tell application "CodeKit" to add framework at path sites & "/cremastrap-bs4/bootstrap"
+    tell application "CodeKit" to add framework at path sites & "/cremastrap-bs4/plugins"
+end run
+
+tell application "CodeKit" to unpause file watching

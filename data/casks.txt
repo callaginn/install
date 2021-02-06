@@ -1,0 +1,15 @@
+google-chrome
+firefox
+firefox-developer-edition
+slack
+dropbox
+spamsieve
+suitcase-fusion
+atom
+typora
+codekit
+github
+transmit
+sequel-pro
+watchguard-mobile-vpn-with-ssl
+wkhtmltopdf
